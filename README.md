@@ -4,7 +4,7 @@ When someone's github profile is the neatest profile of that person, you know wh
 ## Couple of facts about me
 - 👨‍💻 I'm a teenager, doing techincal stuff
 - 🔭 I'm working on: 
-  - [Your Personal Database](https://github.com/LeKSuS-04/Your-Personal-Database)
+  - [Your Database](https://github.com/LeKSuS-04/Your-Personal-Database)
 - 🌱 I’m currently learning:
   - Algorithms and data structures
   - Building REST API with Flask and SQLite
