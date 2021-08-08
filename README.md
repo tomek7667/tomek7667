@@ -6,6 +6,7 @@ When someone's github profile is the neatest profile of that person, you know wh
 - 🔭 I'm working on something interesting
 - 🌱 I’m currently learning:
   - Algorithms and data structures
+  - TypeScript & React
 - 👯 I’m looking to collaborate on everything. Seriously, if you have an interesting idea, I'm down
 - ⚡ Fun fact: I also like beatboxing
 
