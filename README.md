@@ -11,8 +11,8 @@ When someone's github profile is the neatest profile of that person, you know wh
 
 
 ## Take a look at some stats!
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeKSuS&custom_title=Coding+Activity&theme=dracula)](https://wakatime.com/@LeKSuS)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeKSuS-04&show_icons=true&theme=dracula)](https://github.com/LeKSuS-04)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeKSuS&custom_title=Coding+Activity&theme=dracula)](https://wakatime.com/@LeKSuS)
 
 
 ## Contact me here
