@@ -3,11 +3,9 @@ When someone's github profile is the neatest profile of that person, you know wh
 
 ## Couple of facts about me
 - 👨‍💻 I'm a teenager, doing techincal stuff
-- 🔭 I'm working on: 
-  - [Your Database](https://github.com/LeKSuS-04/Your-Personal-Database)
+- 🔭 I'm working on something interesting
 - 🌱 I’m currently learning:
   - Algorithms and data structures
-  - Building REST API with Flask and SQLite
 - 👯 I’m looking to collaborate on everything. Seriously, if you have an interesting idea, I'm down
 - ⚡ Fun fact: I also like beatboxing
 
