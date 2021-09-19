@@ -11,7 +11,7 @@ Commenting out my life problems
 
 ## Stats stats stats!!!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeKSuS-04&show_icons=true&theme=omni )](https://github.com/LeKSuS-04)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeKSuS&custom_title=Coding+Activity&theme=omni )](https://wakatime.com/@LeKSuS)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeKSuS&custom_title=Coding+Activity&theme=omni&layout=compact)](https://wakatime.com/@LeKSuS)
 
 
 ## Talk to me 😃
