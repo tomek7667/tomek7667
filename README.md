@@ -1,5 +1,5 @@
-# Hi there, I'm LeKSuS 👋
-Commenting out my life problems
+# Hi, I'm LeKSuS 👋
+I am software engineer, CTF player and competetive programmer.
 
 ## About me 😜
 - 😄 He/They
