@@ -1,7 +1,7 @@
 # Hi, I'm LeKSuS 👋
 I am software engineer, CTF player and competetive programmer.
 
-## About me 😜
+## About me :slightly_smiling_face:
 - 😄 He/They
 - 🔭 I'm working on something interesting
 - 🌱 I’m currently learning:
