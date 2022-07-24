@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 64 hrs 34 mins
+Total Time: 55 hrs 28 mins
 
-Python       25 hrs 15 mins  █████████▓░░░░░░░░░░░░░░░   38.46 %
-Haskell      15 hrs 54 mins  ██████░░░░░░░░░░░░░░░░░░░   24.22 %
-Svelte       8 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-C            4 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-HTML         1 hr 57 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-YAML         1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Python       19 hrs 19 mins  ████████▓░░░░░░░░░░░░░░░░   34.29 %
+Haskell      14 hrs 43 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
+Svelte       8 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+C            4 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+TypeScript   1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+YAML         58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
