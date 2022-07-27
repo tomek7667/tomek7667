@@ -10,14 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 63 hrs 24 mins
-
-Python       21 hrs 1 min    ████████▒░░░░░░░░░░░░░░░░   32.69 %
-Haskell      14 hrs 43 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
-Svelte       8 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
-C            4 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-C++          3 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-YAML         2 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
