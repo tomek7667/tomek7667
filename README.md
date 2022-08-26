@@ -10,13 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 37 hrs 27 mins
+Total Time: 32 hrs 24 mins
 
-Python                     21 hrs 16 mins  █████████████▓░░░░░░░░░░░   55.23 %
-C++                        9 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
-YAML                       2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Git                        1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Other                      1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Python                     21 hrs 42 mins  ████████████████▒░░░░░░░░   64.89 %
+C++                        7 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
+YAML                       1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Other                      1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
