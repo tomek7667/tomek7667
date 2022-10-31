@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 85 hrs 42 mins
+Total Time: 87 hrs 49 mins
 
-C++                        31 hrs 50 mins  █████████░░░░░░░░░░░░░░░░   36.36 %
-Python                     28 hrs 51 mins  ████████▒░░░░░░░░░░░░░░░░   32.95 %
-Svelte                     9 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-C                          4 hrs 52 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-JavaScript                 3 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Markdown                   2 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+C++                        31 hrs 50 mins  █████████░░░░░░░░░░░░░░░░   35.49 %
+Python                     30 hrs 46 mins  ████████▓░░░░░░░░░░░░░░░░   34.30 %
+Svelte                     8 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+C                          4 hrs 52 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+JavaScript                 2 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Markdown                   2 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
