@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 130 hrs 40 mins
+Total Time: 134 hrs 20 mins
 
-Python           35 hrs 44 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-Terraform        22 hrs 38 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-C++              19 hrs 21 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-JavaScript       14 hrs 4 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-Bash             13 hrs 23 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-C                4 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Python            36 hrs 44 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.50 %
+Terraform         22 hrs 38 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+C++               17 hrs 24 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+JavaScript        13 hrs 52 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+Bash              13 hrs 25 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Go                9 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
 ```
 
 <!--END_SECTION:waka-->
