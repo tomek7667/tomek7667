@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 61 hrs 53 mins
+Total Time: 65 hrs 12 mins
 
-Python          28 hrs          ██████████▓░░░░░░░░░░░░░░   43.08 %
-C++             15 hrs 29 mins  ██████░░░░░░░░░░░░░░░░░░░   23.83 %
-Terraform       5 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Makefile        3 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Other           3 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+Python          28 hrs 22 mins  ██████████▓░░░░░░░░░░░░░░   42.02 %
+C++             19 hrs 17 mins  ███████░░░░░░░░░░░░░░░░░░   28.57 %
+Terraform       5 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Makefile        3 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Docker          2 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 ```
 
 <!--END_SECTION:waka-->
