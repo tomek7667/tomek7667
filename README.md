@@ -9,7 +9,7 @@
 #### :computer: Last month coding activity
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 63 hrs 7 mins
 
 Python          34 hrs 24 mins  ████████████▓░░░░░░░░░░░░   50.08 %
