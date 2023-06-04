@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 63 hrs 7 mins
+Total Time: 62 hrs 32 mins
 
-Python          34 hrs 24 mins  ████████████▓░░░░░░░░░░░░   50.08 %
-C++             11 hrs 17 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-Other           5 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-C               3 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Terraform       1 hr 49 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Python          33 hrs 58 mins  ████████████▒░░░░░░░░░░░░   49.90 %
+C++             11 hrs 17 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+Other           5 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+C               3 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Terraform       1 hr 49 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
