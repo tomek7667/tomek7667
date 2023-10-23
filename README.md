@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 63 hrs 13 mins
+Total Time: 66 hrs 8 mins
 
-Python                     30 hrs 58 mins  ████████████░░░░░░░░░░░░░   47.86 %
-C++                        13 hrs 17 mins  █████░░░░░░░░░░░░░░░░░░░░   20.53 %
-JavaScript                 5 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-YAML                       3 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-C                          1 hr 56 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Python                     31 hrs 28 mins  ███████████▓░░░░░░░░░░░░░   46.54 %
+C++                        14 hrs 38 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
+JavaScript                 5 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+YAML                       4 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+C                          1 hr 56 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
