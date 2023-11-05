@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 76 hrs 18 mins
+Total Time: 77 hrs 57 mins
 
-Python                     31 hrs 56 mins  ██████████▒░░░░░░░░░░░░░░   40.84 %
-C++                        18 hrs 17 mins  ██████░░░░░░░░░░░░░░░░░░░   23.38 %
-YAML                       8 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-JavaScript                 6 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-Docker                     2 hrs 19 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Python                     31 hrs 31 mins  ██████████░░░░░░░░░░░░░░░   39.38 %
+C++                        18 hrs 10 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
+YAML                       10 hrs 6 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+JavaScript                 6 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Docker                     2 hrs 23 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
