@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 74 hrs 22 mins
+Total Time: 74 hrs 21 mins
 
 C                          23 hrs 27 mins  ███████▓░░░░░░░░░░░░░░░░░   30.94 %
 Python                     13 hrs 19 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
