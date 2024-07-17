@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=tomek7667&hide_border=true&border_radius=5&card_width=800">
+</p>
