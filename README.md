@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 64 hrs 47 mins
+Total Time: 59 hrs 25 mins
 
-Go                21 hrs 17 mins  ████████▒░░░░░░░░░░░░░░░░   32.68 %
-Python            19 hrs 39 mins  ███████▓░░░░░░░░░░░░░░░░░   30.17 %
-YAML              5 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Terraform         4 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Protocol Buffer   3 hrs 33 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Go                22 hrs 57 mins  █████████▓░░░░░░░░░░░░░░░   38.45 %
+Python            17 hrs 3 mins   ███████░░░░░░░░░░░░░░░░░░   28.56 %
+YAML              4 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Protocol Buffer   3 hrs 33 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+C++               3 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka-->
