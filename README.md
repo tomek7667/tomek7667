@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 69 hrs 5 mins
+Total Time: 63 hrs 34 mins
 
-Go                36 hrs          ████████████▓░░░░░░░░░░░░   51.20 %
-Svelte            8 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-Terraform         6 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-Python            5 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-TypeScript        4 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+Go                34 hrs 39 mins  █████████████▒░░░░░░░░░░░   53.81 %
+Svelte            8 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
+Python            5 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+TypeScript        4 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Terraform         3 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 ```
 
 <!--END_SECTION:waka-->
