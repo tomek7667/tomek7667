@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 102 hrs 47 mins
+Total Time: 91 hrs 22 mins
 
-Go                38 hrs 46 mins  █████████▒░░░░░░░░░░░░░░░   37.39 %
-C++               15 hrs 48 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-Python            11 hrs 31 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Svelte            7 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-TypeScript        5 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Go                38 hrs 37 mins  ██████████▒░░░░░░░░░░░░░░   41.90 %
+C++               14 hrs 14 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+Python            10 hrs 2 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+Svelte            4 hrs 55 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+TypeScript        3 hrs 55 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->
