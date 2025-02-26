@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 66 hrs 55 mins
+Total Time: 59 hrs 23 mins
 
-Rust              17 hrs 25 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
-Python            16 hrs 35 mins  ██████░░░░░░░░░░░░░░░░░░░   23.96 %
-Solidity          13 hrs 10 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-YAML              3 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Docker            2 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Rust         17 hrs 25 mins  ███████░░░░░░░░░░░░░░░░░░   28.45 %
+Python       16 hrs 22 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.71 %
+YAML         3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Solidity     3 hrs 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Docker       2 hrs 35 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
 ```
 
 <!--END_SECTION:waka-->
