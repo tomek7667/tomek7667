@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 94 hrs 56 mins
+Total Time: 89 hrs 46 mins
 
-Python            21 hrs 3 mins   █████░░░░░░░░░░░░░░░░░░░░   20.66 %
-Go                20 hrs 12 mins  █████░░░░░░░░░░░░░░░░░░░░   19.83 %
-YAML              13 hrs 2 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-Markdown          12 hrs 49 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-Other             7 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Python            21 hrs 3 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
+Go                18 hrs 12 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+YAML              13 hrs 1 min    ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Markdown          12 hrs 49 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
+Other             6 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
 ```
 
 <!--END_SECTION:waka-->
