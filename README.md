@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 24 hrs 53 mins
+Total Time: 17 hrs 28 mins
 
-C++                  5 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-YAML                 4 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
-C                    3 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-Terraform            2 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-Other                2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+YAML                 4 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+Terraform            2 hrs 44 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+Other                2 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+C++                  2 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Go                   1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
 ```
 
 <!--END_SECTION:waka-->
