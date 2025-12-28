@@ -1,7 +1,7 @@
 <h2 align="center">I am tomek7667</h2>
 <p align="center">i like ctf</p>
 
-#### :computer: Last month coding activity
+#### :computer: Last week coding activity
 <!--START_SECTION:waka-->
 
 ```txt
