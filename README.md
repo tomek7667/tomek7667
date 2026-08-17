@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 60 hrs 41 mins
+Total Time: 58 hrs 8 mins
 
-Go                   21 hrs 13 mins        ████████▒░░░░░░░░░░░░░░░░   32.70 %
-Markdown             19 hrs 2 mins         ███████▒░░░░░░░░░░░░░░░░░   29.33 %
-Other                4 hrs 12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-YAML                 4 hrs 1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Bash                 3 hrs 9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Go                   20 hrs 48 mins        ████████▒░░░░░░░░░░░░░░░░   33.41 %
+Markdown             18 hrs 38 mins        ███████▒░░░░░░░░░░░░░░░░░   29.93 %
+Other                4 hrs 8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+YAML                 4 hrs 1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Terraform            2 hrs 43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
