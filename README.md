@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tomek7667/tomek7667/main/assets/header.svg" alt="tomek7667 — Security Engineer & CTF Player" width="880"/>
+  <img src="https://raw.githubusercontent.com/tomek7667/tomek7667/main/assets/header.svg" alt="tomek7667" width="880"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/tomek7667/tomek7667/main/assets/now.svg" alt="now" width="720"/>
@@ -9,113 +9,71 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Gda%C5%84sk-PL-555555?style=flat" height="22"/>
 </p>
 
 ---
 
-Senior software engineer in Gdańsk and a cybersecurity enthusiast. I play CTFs with
-**[justCatTheFish](https://ctftime.org/team/33893)**, write the solutions up at
-**[cyber-man.pl](https://cyber-man.pl)** so I actually remember them, and spend the rest
-of the time building small Go services that run on a Raspberry Pi and do not need a
-runtime, a container registry or my attention.
+Software engineer, cybersecurity enthusiast. I play CTFs with
+[justCatTheFish](https://ctftime.org/team/33893) and write the solves up at
+[cyber-man.pl](https://cyber-man.pl).
 
-Most of what I publish is not a framework. It is the library I got tired of rewriting for
-the fourth private project, or the tool that existed but wanted an account first.
-
-I love Go &lt;3. Single binary, cross-compile, `go install`, done.
+Go is my favourite. Single binary, cross compile, `go install`, done. Most of what
+is here is either a library I got tired of rewriting for the next private project,
+or a tool that already existed but wanted an account first.
 
 ### Stack
 
-Day to day:
+Go, TypeScript, Python, SQLite. Docker, systemd, Cloudflare, Grafana Loki underneath.
+Burp Suite and my own extensions for the security side, mostly web, crypto and misc.
 
-- **Go** — HTTP services, CLIs, libraries; almost everything self-hosted I run
-- **TypeScript** — frontends and the odd API when the ecosystem is worth it
-- **Python** — CTF tooling, crypto scripting, Burp extensions
-- **SQLite** — when a service genuinely does not need a database server
-- **Docker, systemd, Cloudflare, Grafana Loki** for the layer underneath
+### Go libraries and tools
 
-Security side:
+- [secrets](https://github.com/tomek7667/secrets) - self hosted secrets manager. SQLite, JWT auth, API tokens with pattern permissions, audit log, web UI.
+- [links](https://github.com/tomek7667/links) - link directory and resource monitor for the services on my raspberry pi. Self updating binary, JSON on disk.
+- [bap](https://github.com/tomek7667/bap) - bump and push. Git tag versioning in one command, with a dry run flag.
+- [gotransaction](https://github.com/tomek7667/gotransaction) - transactions with custom rollback, for when three clients already committed and the fourth errored.
+- [go-multi-logger-slog](https://github.com/tomek7667/go-multi-logger-slog) - env configured slog handler. JSON to Loki when the endpoint is set, readable tint output when it is not.
+- [go-http-helpers](https://github.com/tomek7667/go-http-helpers) - CRUD, response logging and JWT plumbing used in nearly all my private projects.
+- [goimail](https://github.com/tomek7667/goimail) - iCloud+ mail sending.
+- [orange-is-stupid](https://github.com/tomek7667/orange-is-stupid) - Cloudflare dynamic DNS, because my ISP will not sell a private person a static IP.
+- [Logo-Maker](https://github.com/tomek7667/Logo-Maker) - generates every icon size the App Store and Play Store ask for.
+- [scaler](https://github.com/tomek7667/scaler) - small site showing different types of scales.
+- [przepisy](https://github.com/tomek7667/przepisy) - mobile first recipe app with ranking.
 
-- Web, crypto and misc are where I am most comfortable; rev and pwn I keep working on
-- Burp Suite, and writing my own extensions when the workflow does not fit
-- Building CTF infrastructure as often as I break it — CTFd challenges, platform work
+### Security and CTF
 
-Opinions I hold quietly:
+- [Copy-Request](https://github.com/tomek7667/Copy-Request) - Burp extension that copies a request as code in the language you want to write the exploit in.
+- [Burp-Export-History](https://github.com/tomek7667/Burp-Export-History) - Burp extension for exporting proxy history.
+- [ExtendedRandCrack](https://github.com/tomek7667/ExtendedRandCrack) - randcrack with the parts CTFs keep needing: offsetting into the Mersenne Twister state, and `getrandbits(64)` outputs.
+- [mcp-ctftime](https://github.com/tomek7667/mcp-ctftime) - MCP server over the CTFtime API. On npm, `npx mcp-ctftime`.
+- [openctf](https://github.com/tomek7667/openctf) - open source alternative to CTFtime. Rates weight, difficulty and quality as separate metrics instead of one number. Not currently deployed.
+- [mc-rce](https://github.com/tomek7667/mc-rce) - RCE PoC plugin for a Paper 1.20.2 Minecraft server.
+- [PING-sandbox-escape](https://github.com/tomek7667/PING-sandbox-escape) - sandbox escape practice challenges from a talk I gave.
+- [Race-Condition-Laboratory](https://github.com/tomek7667/Race-Condition-Laboratory) - practice targets for race conditions.
+- [Password-Cracker](https://github.com/tomek7667/Password-Cracker) - distributed password cracking platform.
+- [ctfd-challenges](https://github.com/tomek7667/ctfd-challenges) and [pingCTF-2022-files](https://github.com/tomek7667/pingCTF-2022-files) - challenges I wrote.
 
-- If a tool needs an account before it does anything, I will write my own
-- A library used by one person is still worth a README and a tagged version
-- Writing up the solve is half the learning; skipping it wastes the whole night
-- `ENV`-configured, stdout-logged, one binary — the deployment story should be boring
+### Web and libraries
 
-### Projects
+- [Human-Error-Calculator](https://github.com/tomek7667/Human-Error-Calculator) - probability of human error using the TESEO method. Live at [hec.cyber-man.pl](https://hec.cyber-man.pl).
+- [gpt-programmer](https://github.com/tomek7667/gpt-programmer) - API giving LLMs the ability to create whole projects and browse.
+- [pocketbase-utils](https://github.com/tomek7667/pocketbase-utils) - the utils PocketBase is missing.
+- [Hebe-API-js](https://github.com/tomek7667/Hebe-API-js) / [Hebe-API-python](https://github.com/tomek7667/Hebe-API-python) and [Zacks-API](https://github.com/tomek7667/Zacks-API) - unofficial clients for services with no public API.
+- [mi-bulb-homebridge](https://github.com/tomek7667/mi-bulb-homebridge) - Homebridge plugin for Mi bulbs, MJDPL04YL in particular.
+- [biotech-js](https://github.com/tomek7667/biotech-js), [Splitter](https://github.com/tomek7667/Splitter), [extract-genes](https://github.com/tomek7667/extract-genes), [Blaster](https://github.com/tomek7667/Blaster) - bioinformatics file parsing, sequence splitting and organism prediction, from my time as a bioinformatician.
+- [LeetTranslator](https://github.com/tomek7667/LeetTranslator) - leet to human text.
 
-**[secrets](https://github.com/tomek7667/secrets)** — self-hosted secrets management with
-a web UI and a REST API. SQLite-backed single binary, multi-user with JWT, API tokens with
-pattern-based permissions, and an audit log. Built because the hosted options all start at
-"create an organisation".
+### Game mods and addons
 
-**[openctf](https://github.com/tomek7667/openctf)** — an open-source alternative to
-CTFtime, integrated with their results. Team claiming, event import, and a rating model
-that separates *weight*, *difficulty* and *quality* instead of mashing them into one
-number. Live at [openctf.cyber-man.pl](https://openctf.cyber-man.pl).
+- [speed-o-meter](https://github.com/tomek7667/speed-o-meter) - TurtleWoW addon measuring your speed.
+- [Auction-Watch](https://github.com/tomek7667/Auction-Watch) - TurtleWoW auction house watcher.
+- [PeggleTurtle](https://github.com/tomek7667/PeggleTurtle) / [BetterPeggle](https://github.com/tomek7667/BetterPeggle) - two attempts at Peggle inside WoW.
+- [Messenger](https://github.com/tomek7667/Messenger) - Minecraft mod for automating messages on an interval.
 
-**[mcp-ctftime](https://github.com/tomek7667/mcp-ctftime)** — an MCP server wrapping the
-public CTFtime API, so an assistant can look up events, teams, rankings and results
-without me pasting JSON at it. On npm, `npx mcp-ctftime`.
+### Coding activity
 
-**[bap](https://github.com/tomek7667/bap)** — *bump and push*. Git tag versioning as one
-command, with a `-dry` flag for when you do not trust it yet. Written after the tenth time
-I typed the tag by hand and got the patch number wrong.
+Updated daily from WakaTime, last 30 days.
 
-**[gotransaction](https://github.com/tomek7667/gotransaction)** — universal transactions
-with custom rollback, for the case SQL transactions do not cover: three clients already
-committed and the fourth one errored.
-
-**[go-multi-logger-slog](https://github.com/tomek7667/go-multi-logger-slog)** — an
-env-configured `slog` handler. Ships JSON to Grafana Loki when the endpoint is set,
-falls back to readable `tint` output on stdout when it is not.
-
-**[links](https://github.com/tomek7667/links)** — a tiny link directory and resource
-monitor for the services on my Raspberry Pi. Self-updating binary, JSON on disk, no
-database. I open it far more often than I expected to.
-
-**[Copy-Request](https://github.com/tomek7667/Copy-Request)** — Burp Suite extension that
-copies a request as code in the language you actually want to write the exploit in.
-
-**[ExtendedRandCrack](https://github.com/tomek7667/ExtendedRandCrack)** — `randcrack` with
-the parts CTFs keep needing: offsetting into the Mersenne Twister state, and submitting
-`getrandbits(64)` outputs.
-
-Plus the small ones that keep the rest running:
-[go-http-helpers](https://github.com/tomek7667/go-http-helpers) (CRUD, response logging
-and JWT plumbing used in nearly all my private projects),
-[goimail](https://github.com/tomek7667/goimail) (iCloud+ mail sending),
-[orange-is-stupid](https://github.com/tomek7667/orange-is-stupid) (Cloudflare DDNS,
-because my ISP will not sell a private person a static IP).
-
-### Where I have been
-
-- **justCatTheFish** — current CTF team
-- **ECSC 2024**, Turin — Polish national team; Poland took 3rd place 🥉
-- **153plus1 (2023)** — winning pair 🥇
-- **pingCTF** — captain 2021–2023, and led the PING cybersecurity science club at Gdańsk Tech
-- **Carrier** 2022–2025 — backend developer → tech lead → sr. assoc. software engineer
-- **Gdańsk Tech** — BSc in Data Engineering; currently part-time CS master's
-
-### What I am doing now
-
-Writing up recent solves on the blog —
-[0ctf 2025 *ezmd*](https://cyber-man.pl/0ctf-2025-ezmd-web),
-[SECCON Quals *dummyhole*](https://cyber-man.pl/SECCON-Quals-2025-dummyhole-web),
-[corCTF *control*](https://cyber-man.pl/corCTF-2025-control-misc),
-[SekaiCTF *sekai-craft*](https://cyber-man.pl/SekaiCTF-sekaicraft-misc) — and starting a
-write-up YouTube channel for the same reason I started the blog: explaining the solve is
-what makes it stick. Still chipping away at openctf on the side.
-
-### 📊 Activity
-
-#### :computer: Last week coding activity
 <!--START_SECTION:waka-->
 
 ```txt
@@ -137,13 +95,7 @@ Python                     4 hrs 41 mins         █▒░░░░░░░░�
 
 ### Contact
 
-Open an issue on any of the repositories above — for anything about a specific repo, that
-is the fastest way to reach me and it leaves the answer somewhere the next person can
-find it.
+Open an issue on any of the repos above. For anything about a specific repo that is
+the fastest way to reach me, and it leaves the answer where the next person can find it.
 
-Otherwise: [cyber-man.pl](https://cyber-man.pl) · [@_tomek7667](https://x.com/_tomek7667)
-
----
-
-Gdańsk, PL · UTC+1/+2 · replies are usually same-day on weekdays, and whenever the CTF
-ends at weekends.
+Otherwise: [cyber-man.pl](https://cyber-man.pl) or [@_tomek7667](https://x.com/_tomek7667).
